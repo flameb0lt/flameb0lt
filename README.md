@@ -1,4 +1,4 @@
-<h3 align="center">Hi! I'm Haru. 17 y/o. also does violin, art, etc.</h3>
+<h3 align="center">Hi! I'm Haru. 17 y/o. also does violin, art, etc. :3 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flameb0lt&label=Profile%20views&color=0e75b6&style=flat" alt="flameb0lt" /> </p>
 

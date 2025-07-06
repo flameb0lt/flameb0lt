@@ -6,7 +6,7 @@
 
 - I’m currently learning **c, c++, c#, etc.**
 
-- I’m looking to collaborate on **games/apps/other prjects** with other people
+- I’m looking to collaborate on **games/apps/other projects** with other people
 
 - I regularly write articles on [https://quantumdrafts.blogspot.com/](https://quantumdrafts.blogspot.com/)
 
